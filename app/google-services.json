@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904930371720",
+    "project_id": "preiod",
+    "storage_bucket": "preiod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904930371720:android:cf6eb8245428284de4d73d",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904930371720-tmracmsnpvgbho4vl6s7pq7f5qkdh364.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPCBjyYZON-wbJteK8tkqXgOnB_oM9QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904930371720-tmracmsnpvgbho4vl6s7pq7f5qkdh364.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
